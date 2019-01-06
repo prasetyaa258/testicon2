@@ -1,0 +1,8 @@
+﻿ERROR: Unable to parse project file GarudaWEB.csproj.
+
+=========================COMMENTS=================
+Project GarudaWEB.csproj has been converted successfully at January 06 2019, 05:12:47.
+ERROR: Unable to parse project file GarudaWEB.csproj.
+
+=========================COMMENTS=================
+Project GarudaWEB.csproj has been converted successfully at January 06 2019, 05:13:00.
